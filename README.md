@@ -38,4 +38,5 @@ Pocket Plan Budget (PBB) is an Android application designed to help users manage
 4. You can sign in with dummy credentials (`username: "user", password: "1234"`) to access the dashboard.
 
 ```bash
+https://youtu.be/7sdW-yFV3eY?si=3hsEJtPOSQgiQLTN
 git clone <your-repository-url>
