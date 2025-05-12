@@ -1,8 +1,8 @@
-# Pocket Plan Budget (PBB)
+# Pocket Plan Budget (PPB)
 
 ## Description
 
-Pocket Plan Budget (PBB) is an Android application designed to help users manage their personal finances effectively. The app allows users to track their income, expenses, and set up budgets in various categories. It also includes features like profile management, expense tracking, and budgeting goals to help users stay on top of their financial health.
+Pocket Plan Budget (PPB) is an Android application designed to help users manage their personal finances effectively. The app allows users to track their income, expenses, and set up budgets in various categories. It also includes features like profile management, expense tracking, and budgeting goals to help users stay on top of their financial health.
 
 ## Features
 
